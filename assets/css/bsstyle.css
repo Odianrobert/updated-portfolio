@@ -24,7 +24,7 @@
     margin-left: 20%;
     line-height: 250%;
     width: 80%;
-    height: 20%;
+    /* height: 20%; */
     margin-bottom: 10%;
 }
 
@@ -108,15 +108,6 @@ body {
   margin-right: 25%;
 }
 
-.link {
-  background-color: #4aaaa5;
-  color: #ffffff;
-  width: 125px;
-  text-align: center;
-  font-size: small;
-  position: relative;
-}
-
 .col-sm-6 {
   width: 50%;
   border: none;
@@ -163,7 +154,7 @@ body {
 and (min-device-width : 667px) 
 and (max-device-width : 992px)  {
   .col-sm-6 {
-      width: 100%;
+      width: 65%;
   }
 }
 
