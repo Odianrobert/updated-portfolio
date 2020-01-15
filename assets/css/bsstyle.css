@@ -146,7 +146,7 @@ body {
   /* left: 0;
   right: 0; */
   margin: 0 auto;
-  width: 25%;
+  width: fit-content;
   margin-bottom: 10px;
 }
 
