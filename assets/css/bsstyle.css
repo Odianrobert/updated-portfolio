@@ -60,7 +60,7 @@
   
 .img-thumbnail {
   height: 175px;
-  width: 175px;
+  width: 225px;
   float: left;
   border: none;
   padding-right: 20px;
@@ -143,9 +143,17 @@ body {
 }
 
 .LI-profile-badge {
+  /* left: 0;
+  right: 0; */
+  margin: 0 auto;
+  width: 25%;
   margin-bottom: 10px;
 }
 
+/* .lI {
+  width: 100%;
+  display: inline-block;
+} */
 
 
 @media only screen 
